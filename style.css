@@ -1,0 +1,27 @@
+h1 {
+  display: flex;
+  color: teal;
+  border: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-weight: bolder;
+}
+
+div {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+
+
+div-3 {
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+}
