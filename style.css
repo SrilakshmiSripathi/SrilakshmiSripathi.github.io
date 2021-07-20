@@ -5,23 +5,23 @@ h1 {
   font-family: 'Times New Roman', Times, serif;
   font-style: normal;
   font-weight: bolder;
+  float: right;
+
 }
 
-div {
-  display: flex;
-  justify-content: left;
-  align-items: left;
+h3 {
+  color: teal;
+  border: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-weight: bolder;
 }
+
 
 img {
-  width: 100%;
-  height: auto;
+  width: 10%;
+  height: 10%;
+  
 }
 
 
-
-div-3 {
-  background-color: yellow;
-  height: 200px;
-  width: 200px;
-}
