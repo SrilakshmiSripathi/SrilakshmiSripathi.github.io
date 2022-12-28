@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksrilakshmisripathi_github_io=self.webpackChunksrilakshmisripathi_github_io||[]).push([[756],{89:function(i,t,u){function r(){return"Hello world"}u.r(t),u.d(t,{default:function(){return r}})}}]);
+//# sourceMappingURL=component---src-pages-index-ts-fa78143313c211316fdb.js.map

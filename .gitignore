@@ -5,3 +5,4 @@ build/components
 .prettierrc.yaml
 'package-lock.json
 package.json
+.cache

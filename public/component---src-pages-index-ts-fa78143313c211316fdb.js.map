@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-index-ts-fa78143313c211316fdb.js","mappings":"+IAEe,SAASA,IACtB,MAAO,aACT,C","sources":["webpack://srilakshmisripathi.github.io/./src/pages/index.ts"],"sourcesContent":["import * as React from \"react\"\r\n\r\nexport default function Component () {\r\n  return \"Hello world\"\r\n}"],"names":["Component"],"sourceRoot":""}
